@@ -1,38 +1,67 @@
 # SmartVDS
 
-High performance VPS and dedicated server solutions.
+High performance VPS, GPU and dedicated server solutions powered by AMD EPYC infrastructure.
 
-## Services
-
-- Linux VPS
-- Windows VPS
-- AMD EPYC Servers
-- Dedicated Hosting
-- KVM Virtualization
-- Docker Hosting
-
-## Website
+## Main Website
 
 https://smartvds.org/
 
-## Categories
+## Server Categories Directory
 
-- VPS Hosting
-- Cloud Infrastructure
-- Virtualization
-- Linux Servers
-- Windows Servers
+Browse all VPS, GPU and dedicated server categories:
+
+https://smartvds.org/server-categories/
+
+## Server Categories
+
+- Windows VDS | VPS Servers  
+  https://smartvds.org/server-categories/windows-vds-vps-servers/
+
+- VPN VDS | VPS Servers  
+  https://smartvds.org/server-categories/vpn-vds-vps-servers/
+
+- VDS | VPS Servers  
+  https://smartvds.org/server-categories/vds-vps-servers/
+
+- Storage VDS | VPS  
+  https://smartvds.org/server-categories/storage-vds-vps/
+
+- Lifetime VDS | VPS Servers  
+  https://smartvds.org/server-categories/lifetime-vds-vps-servers/
+
+- GPU VDS | VPS Servers  
+  https://smartvds.org/server-categories/gpu-vds-vps-servers/
+
+- Dedicated Servers  
+  https://smartvds.org/server-categories/dedicated-servers/
+
+- Dedicated GPU Servers  
+  https://smartvds.org/server-categories/dedicated-gpu-servers/
+
+- Crypto Nodes VDS | VPS  
+  https://smartvds.org/server-categories/crypto-nodes-vds-vps/
+
+- 1-Click Crypto Nodes  
+  https://smartvds.org/server-categories/xnode/
 
 ## Useful Links
 
-- https://smartvds.org/tariffs/
-- https://smartvds.org/server-categories/
-- https://smartvds.org/companies/
+- Hosting Companies  
+  https://smartvds.org/companies/
+
+- Articles  
+  https://smartvds.org/articles/
+
+- Tariffs  
+  https://smartvds.org/tariffs/
 
 ## Technologies
 
-- KVM
-- Docker
+- KVM Virtualization
+- AMD EPYC
+- NVIDIA GPU
 - Linux
 - Windows Server
-- Cloud Hosting
+- Docker
+- NVMe SSD
+- Cloud Infrastructure
